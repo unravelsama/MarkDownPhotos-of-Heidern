@@ -1,2 +1,2 @@
-# markdownphptos
+# markdownphotos
 A place for my photos.
